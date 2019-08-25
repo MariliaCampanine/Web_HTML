@@ -1,0 +1,121 @@
+/* General setup */
+
+@font-face {
+    font-family: 'lobster_1.3regular';
+    src: url('fontes/webfontkit-20190823-092017/lobster_1.3-webfont.woff2') format('woff2'),
+         url('fontes/webfontkit-20190823-092017/lobster_1.3-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    margin: 0 auto;
+    min-width: 1000px;
+    max-width: 1400px;
+}
+
+
+/* Layout */
+
+section {
+    float: left;
+    width: 50%;
+}
+
+aside {
+    float: left;
+    width: 30%;
+}
+
+nav {
+    float: left;
+    width: 20%;
+}
+
+footer {
+    clear: both;
+}
+
+header,
+section,
+aside,
+nav,
+footer {
+    padding: 20px;
+}
+
+
+/* header and footer */
+
+header,
+footer {
+    border-top: 5px solid #a66;
+    border-bottom: 5px solid #a66;
+}
+
+header {
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+
+a {
+    color: #a66;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.diferente a {
+    background-color: white;
+    color: #a66;
+    padding: 14px 25px;
+
+    text-align: center;
+    border: 1px solid #a66;
+    text-decoration: none;
+    display: inline-block;
+    width: 100px;
+
+}
+li{
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.diferente {
+    list-style: none;
+}
+
+nav{
+    width: auto;
+}
+
+aside{
+    margin-right: 10px;
+    width: auto;
+}
+
+img{
+    width: 10px;
+    height: 10px;
+}
+
+h1{
+    font-family: 'lobster_1.3regular', sans-serif;
+    font-size: 30px;
+}
+/* WRITE YOUR CODE BELOW HERE */

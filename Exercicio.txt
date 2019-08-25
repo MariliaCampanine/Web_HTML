@@ -1,0 +1,53 @@
+Página de uma escola comunitária
+
+
+1) Fontes:
+
+a) Faça o download de uma fonte gratuita para usar e escolha uma outra fonte de um site com fontes online como Google Fonts. Como o site é para uma escola escolha fontes que dêem uma aparência mais formal e de confiança ao site - uma fonte com serifa para o corpo do texto e uma fonte sem serifa para os cabeçalhos.
+
+b) Use um serviço gratuito para gerar uma @font-face para a fonte que você baixou.
+
+c) Aplique as fontes no corpo na página toda e nos cabeçalhos.
+
+
+2) Estilo geral do texto
+
+a) Defina uma fonte de tamanho 10px para toda a página
+
+b) Defina tamanhos de fontes para os cabeçalhos e outros tipos de elementos usando uma unidade relativa como rem.
+
+c) Defina uma altura de linha adequada para o texto do corpo.
+
+d) Centralize o cabeçalho principal na página.
+
+e) Aumente um pouquinho o espaçamento entre as letras dos cabeçalhos.
+
+f) Defina um espaçamento adequado entre letras e entre palavras do texto do corpo.
+
+g) Defina uma identação de 20px para o primeiro parágrafo depois de cada cabeçalho dentro da <section>.
+
+
+3) Links
+
+a) Defina cores adequadas para os estados link, visited, focus e hover de acordo com as cores das barras na página.
+
+b) Faça com que os links fiquem sublinhados por padrão mas quando estiverem nos estados hover ou focus esse sublinhado desapareça.
+
+c) Remova o outline padrão de foco de todos os links da página.
+
+d) Defina ao estado ativo um estilo mais aparente de modo a destacá-lo mas ainda mantendo o design geral da página.
+
+e) Faça com que os links externos tenham o ícone escolhido próximo deles.
+
+
+4) Listas
+
+a) Procure fazer com que o espaçamento das listas e seus itens combine com o estilo geral da página. Cada item de lista deve ter a mesma altura de linha que as linhas de parágrafos e cada lista deve ter o mesmo espaço acima e abaixo dela como nos parágrafos.
+
+b) Defina um marcador de item apropriado para a página. Você pode escolher entre usar uma imagem ou então outra forma qualquer.
+
+
+5) Menu de navegação
+
+a) Defina um estilo no menu de navegação de maneira que ele pareça um menu vertical e combine com a página em geral. Você não precisa fazer com que os links pareçam botões mas eles tem que ser um pouco mais altos para não ficarem esquisitos no canto da página.
+
