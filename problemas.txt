@@ -1,0 +1,7 @@
+1) Os elementos <header> e <footer> deveriam ter uma cor de fundo, mas ela não aparece.
+
+2) O <h1> e o <p> dentro do <footer> estão muito altos na página - mais aparente o h1 que quase está fora da página
+
+3) A <img> deveria flutuar para baixo e para a direita para ficar a direita do texto mas não está.
+
+4) O texto no <main> está muito pequeno - os parágrafos e os itens da lista deveriam ter uma fonte maior mas isso não está acontecendo.
